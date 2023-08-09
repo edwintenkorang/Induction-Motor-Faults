@@ -182,7 +182,7 @@ def Visually(data):
 
 # Example usage:
 
-data_path = "C:\\Users\\Edwin\\Downloads\\Broken_bars_data.csv"
+data_path = "C:\\Users\\Edwin\\Career\\Research\\Asynchronous\\Broken_bars_data.csv"
 output_path_pca = "C:\\Users\\Edwin\\Downloads\\pca_features.xlsx"
 '''
 unsupervised_fe = FeatureExtractionUnsupervised(data_path)
