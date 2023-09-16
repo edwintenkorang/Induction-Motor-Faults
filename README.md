@@ -24,7 +24,6 @@ Folder 2 is dedicated to detecting supply voltage imbalances and includes MATLAB
 - **.slx and .mlx files**: MATLAB files that leverage Support Vector Machines (SVMs) in the classification learner. These files initialize fault parameters and process current waveforms using Discrete Wavelet Transform (DWT) at nine levels before feeding the resulting coefficients to the SVM for prediction.
 - **preprocessor.py**: Python file to concatenate the different datasets for each fault into a single CSV file to feed into the classification learner.
 
-
 ## Conclusion
 
 We hope you enjoy this project half as much as we enjoyed undertaking it. We will continue to contribute to the proactive maintenance and reliability of asynchronous machines.
