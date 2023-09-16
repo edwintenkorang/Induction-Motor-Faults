@@ -25,9 +25,6 @@ Folder 2 is dedicated to detecting supply voltage imbalances and includes MATLAB
 - **preprocessor.py**: Python file to concatenate the different datasets for each fault into a single CSV file to feed into the classification learner.
 
 
-
-3. Explore the broken rotor bars and supply voltage imbalances detection techniques to enhance motor reliability and performance.
-
 ## Conclusion
 
-This project combines the expertise of Edwin Tenkorang and Elvis Twumasi to address common motor faults effectively. By detecting broken rotor bars and supply voltage imbalances, we contribute to the proactive maintenance and reliability of induction motors, ultimately reducing operational disruptions and associated costs.
+We hope you enjoy this project half as much as we enjoyed undertaking it. We will continue to contribute to the proactive maintenance and reliability of asynchronous machines.
